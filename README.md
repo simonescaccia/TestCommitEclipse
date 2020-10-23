@@ -1,1 +1,1 @@
-# TestCheckoutEclipse
+# TestCommitEclipse
